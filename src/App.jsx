@@ -8,7 +8,7 @@ import { checkUser } from "./context/authSlice";
 import ProblemCreate from "./components/ProblemCreate";
 import ProblemPage from "./pages/ProblemPage";
 import Admin from "./pages/Admin";
-import ProblemDelete from "./components/Problemdelete";
+import ProblemDelete from "./components/ProblemDelete";
 import VideoDelete from "./components/VideoControl";
 import VideoControl from "./components/VideoControl";
 import VideoUpload from "./components/VideoUpload";
